@@ -1,0 +1,1 @@
+Testing fucntion version with a decorator
